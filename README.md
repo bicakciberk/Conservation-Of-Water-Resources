@@ -6,8 +6,8 @@ I am currently designing the site.
 
 I think i will use this technologies;
 
--GSAP (for better aniamtions)
--TailwindCSS (for styling site)
+- GSAP (for better animations)
+- TailwindCSS (for styling site)
 
 
 ## Getting Started
